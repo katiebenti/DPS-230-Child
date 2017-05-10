@@ -2,5 +2,5 @@
 fourth copy of Leaflet Maps with Google Sheets
 
 ## live link
-https://katiebenti.github.io/DPS-230-Child/
+https://katiebenti.github.io/DPS-230-Children/
 https://docs.google.com/spreadsheets/d/1FNCgJSb6isQBoglW-AjbhTVgIOpbawTiRmYc00XmVRs/edit#gid=745832354
